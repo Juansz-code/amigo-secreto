@@ -10,9 +10,9 @@ Aplicación web hecha con HTML, CSS y JavaScript que te da la opcion de ingresar
 - También puedes presionar **Enter** para añadir un nombre más rápido.
 
 🛠️ Tecnologías utilizadas
-- **HTML** → estructura de la página.  
-- **CSS** → estilos y diseño visual.  
-- **JavaScript** → lógica del sorteo (funciones, arrays, condicionales y loops).
+- HTML: estructura de la página.  
+- CSS: estilos y diseño visual.  
+- JavaScript: lógica del sorteo (funciones, arrays, condicionales y loops).
 
 Capturas:
 
